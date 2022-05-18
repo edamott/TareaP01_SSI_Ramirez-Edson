@@ -40,6 +40,12 @@ QUE pasa cuando ya no son efectivos los antibioticos: Las infecciones comunes co
 						      Los procedimientos complejos, como la cirugía a corazón abierto, podrían ser más peligrosos y las muertes por infección más comunes.
 						      Una era post-antibióticos en la que muchas infecciones comunes y lesiones menores volverán a ser potencialmente mortales.
 
+QUÉ son las pruebas seriadas de procalcitonina (PCT): La PCT proporciona datos específicos de la infección bacteriana sistémica, con respecto a su presencia, 
+						      curso y gravedad. La adopción de las pruebas PCT en su programa de administración de antibióticos tiene el potencial 
+						      de reducir las tasas de prescripción inicial de antibióticos, la duración del tratamiento con antibióticos, la duración 
+						      de la estancia en el hospital y en la UCI, y la probabilidad de que se produzcan acontecimientos adversos causados por 
+						      los antibióticos, a la vez que se optimiza el tratamiento, se mejoran los resultados y se reducen los costes.
+
 COMO funcionan los antibioticos: Su mecanismo de actuación se basa o bien en inhibir o detener el crecimiento de las bacterias, o bien en matarla.
 
 COMO es la resistencia bacteriana: Se produce cuando la bacteria es capaz de sobrevivir y crecer en presencia de uno o más antibióticos. Cuando sucede esto, 
@@ -79,6 +85,9 @@ CUANTOS bacterias resistentes se conocen: En el año 2013, el CDC identificó la
 					  La Salmonella no tifoidea resistente a los fármacos, El Staphylococcus aureus resistente a la meticilina (MRSA), 
 					  El Staphylococcus aureus resistente a la vancomicina (VRSA).
 
+CUÁNTOS muertos causaría la resistencia bacteriana: Se calcula que en 2050 la resistencia a los antibióticos podría provocar 10 millones de muertes en todo el mundo, 
+						    lo que la haría más mortal que el cáncer.
+
 QUIENES tienen mas riesgo de la resistencia microbiana: Personas en tratamiento con quimioterapia, Personas a las que se les realiza una cirugía compleja,
 		                      		        Personas en tratamiento con diálisis por enfermedad renal terminal, 
 							Pacientes en tratamiento con supresores del sistema inmune (inmunosupresores),
@@ -92,3 +101,4 @@ https://www.genome.gov/es/genetics-glossary/Bacteria
 https://es.wikipedia.org/wiki/Bacteria
 https://labtestsonline.es/articles/resistencia-bacteriana-los-antibioticos
 https://www.who.int/es/news-room/fact-sheets/detail/resistencia-a-los-antibióticos
+https://www.thermofisher.com/procalcitonin/wo/en/home.html?cid=0se_gaw_18112021_9XYYWN
