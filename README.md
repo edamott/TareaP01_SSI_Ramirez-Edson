@@ -46,6 +46,9 @@
     * Los procedimientos complejos, como la cirugía a corazón abierto, podrían ser más peligrosos y las muertes por infección más comunes.
     * Una era post-antibióticos en la que muchas infecciones comunes y lesiones menores volverán a ser potencialmente mortales.
 
+* **QUÉ** son las pruebas seriadas de procalcitonina (PCT):
+    * La PCT proporciona datos específicos de la infección bacteriana sistémica, con respecto a su presencia, curso y gravedad. La adopción de las pruebas PCT en su programa de administración de antibióticos tiene el potencial de reducir las tasas de prescripción inicial de antibióticos, la duración del tratamiento con antibióticos, la duración de la estancia en el hospital y en la UCI, y la probabilidad de que se produzcan acontecimientos adversos causados por los antibióticos, a la vez que se optimiza el tratamiento, se mejoran los resultados y se reducen los costes.
+
 * **CÓMO** funcionan los antibióticos:
     * Su mecanismo de actuación se basa o bien en inhibir o detener el crecimiento de las bacterias, o bien en matarla.
 
@@ -92,6 +95,9 @@
         * El Staphylococcus aureus resistente a la meticilina (MRSA).
         * El Staphylococcus aureus resistente a la vancomicina (VRSA).
 
+* **CUÁNTOS** muertos causaría la resistencia bacteriana:
+    * Se calcula que en 2050 la resistencia a los antibióticos podría provocar 10 millones de muertes en todo el mundo, lo que la haría más mortal que el cáncer.
+
 * **QUIENES** tienen más riesgo de la resistencia microbiana:
     * Personas en tratamiento con quimioterapia.
     * Personas a las que se les realiza una cirugía compleja.
@@ -106,3 +112,4 @@
 2. https://es.wikipedia.org/wiki/Bacteria
 3. https://labtestsonline.es/articles/resistencia-bacteriana-los-antibioticos
 4. https://www.who.int/es/news-room/fact-sheets/detail/resistencia-a-los-antibióticos
+5. https://www.thermofisher.com/procalcitonin/wo/en/home.html?cid=0se_gaw_18112021_9XYYWN
